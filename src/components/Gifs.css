@@ -1,0 +1,17 @@
+.gif-pics {
+    width: 200px;
+    border-radius: 10px;
+    margin: 10px;
+}
+.gif-list {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+
+}
+
+
+
+
+
+
